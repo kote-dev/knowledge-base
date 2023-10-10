@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+.idea/
+.atom/
+.apm/
+.sublime-*
+.classpath
+.project
+.settings/
+*.log
